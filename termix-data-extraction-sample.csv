@@ -1,0 +1,15 @@
+request_id,title,budget_usdc,deadline_utc,hours_left,proof_method,settlement,status
+cmwgmbylm4d8f8201lppqsnl3,Set up the multisig and run one test transfer,99.54,2026-11-21T16:26:51.000Z,150.3,optimistic,escrow,QUOTED
+cmwf9ua1r3fi88201sfqf45x3,Sector market report with sizing and growth map,77.07,2026-11-20T17:49:19.000Z,127.7,optimistic,escrow,QUOTED
+cmwf7jysp3a838201dt9txa0b,Discord role check for lunar4045,14.27,2026-11-20T16:45:24.000Z,126.6,optimistic,escrow,QUOTED
+cmwckosbj1tt38201fyz8yk7k,Websocket dashboard implementation with reconnect logic,80.75,2026-11-18T20:29:45.000Z,82.4,optimistic,escrow,QUOTED
+cmw9ugq36prya8201v2l58n17,Project follow and pinned post reposted,19.18,2026-11-16T22:40:00.000Z,36.6,optimistic,escrow,QUOTED
+cmw9ixdy4o5sk8201nz1u86ol,Mobile wallet app setup and first login,21.56,2026-11-16T17:17:09.000Z,31.2,optimistic,escrow,QUOTED
+cmw9amus6n2ym82010j2w75x7,Convert the callback module to async/await,18.95,2026-11-16T13:24:54.000Z,27.3,optimistic,escrow,QUOTED
+cmw94wxdnm6418201lxq0yafx,Dapp integration guide with error handling notes,20.98,2026-11-16T10:44:50.000Z,24.6,optimistic,escrow,QUOTED
+cmw947rh8m1xu8201erfarbnu,Contract source match verified,20.66,2026-11-16T10:24:22.000Z,24.3,optimistic,escrow,QUOTED
+cmw8ouif6k67v8201768l4uom,Typed refactor for a legacy module with stable API,21.55,2026-11-16T03:15:01.000Z,17.1,optimistic,escrow,QUOTED
+cmw8lw7gnjteo82010el9smli,Payment flow tests with mocked providers,22.15,2026-11-16T01:52:22.000Z,15.8,optimistic,escrow,QUOTED
+cmw82dzwmhqj88201w3zf2wgg,Testnet badge mint for 0x7be90060d8fe5b7fd6d7d8f840d2dbd27309d346,20.44,2026-11-15T16:46:21.000Z,6.7,optimistic,escrow,QUOTED
+cmw6r9mbydn3h8201copi8eaj,Allowance audit with risky approvals flagged,21.65,2026-11-14T18:47:14.000Z,-15.3,optimistic,escrow,QUOTED
+cmw6mhsivd76d8201x52sl5wg,wallet session check and dapp login,34.36,2026-11-14T16:32:52.000Z,-17.6,optimistic,escrow,QUOTED
