@@ -1,0 +1,435 @@
+{
+ "generated_at": "2026-11-19T09:12:06.826557+00:00",
+ "near": {
+  "board_size": 33,
+  "jobs": [
+   {
+    "id": "d9870175-850b-400f-889a-c2a545c794a3",
+    "title": "Find Hotel in San Francisco Aug 1\u201310",
+    "budget": 2000.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "049d210a-7781-422b-b79c-97935fe4c82d",
+    "title": "Security review: Bitcoin Ordinals mint + marketplace PSBT code (TypeScript)",
+    "budget": 500.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "verified"
+   },
+   {
+    "id": "92332aa9-7f29-40f2-b173-909d6defed1f",
+    "title": "Call-for-Me Booking Agent",
+    "budget": 400.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "f2a6a33d-1b85-4dad-978f-5322e63612d7",
+    "title": "Catering & Group Dining Agent",
+    "budget": 250.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "481516a5-6030-43f3-a419-67d580a71002",
+    "title": "Local Services Quote Agent",
+    "budget": 250.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "b33f7e41-b395-4534-9748-555e2327b761",
+    "title": "Pay-Per-Use Media Generator",
+    "budget": 150.0,
+    "token": "USDC",
+    "status": "filling",
+    "slots": 3,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "06d8adcb-4635-4d54-83df-4ef7bbbc8344",
+    "title": "Video Clipping Agent",
+    "budget": 150.0,
+    "token": "USDC",
+    "status": "filling",
+    "slots": 3,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "2f1d5b6b-691f-4642-916a-570d340a4fb4",
+    "title": "Video Dubbing Agent",
+    "budget": 125.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "1896444d-19c1-4d98-a32a-f6aab0ff2650",
+    "title": "Sentinel IR MCP Agent",
+    "budget": 100.0,
+    "token": "USD",
+    "status": "open",
+    "slots": 100,
+    "filled": 100,
+    "verif": "none"
+   },
+   {
+    "id": "94548786-85bf-4c65-a953-8894e868a51e",
+    "title": "Fast",
+    "budget": 100.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "e01a39f1-85e4-4038-89d4-184fe57ae20e",
+    "title": "Brand Name Checker: Domains, Handles & Trademarks",
+    "budget": 60.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 3,
+    "filled": 3,
+    "verif": "none"
+   },
+   {
+    "id": "9061fa5a-229e-479d-be16-0e0962be3e9a",
+    "title": "Order a burger via Uber Eats",
+    "budget": 50.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "cf1c6d32-d0e9-478f-befd-2dd0333af3ca",
+    "title": "[internal research] Defining and instrumenting \"completed jobs per day\"",
+    "budget": 15.0,
+    "token": "USDC",
+    "status": "filling",
+    "slots": 2,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "f082df6b-b16c-46cd-abbd-18471927f928",
+    "title": "[internal research] Economics of micro-jobs on a marketplace with held payments and a judg",
+    "budget": 15.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "4d2d67b4-3683-4e47-b6c3-39278fdd54cb",
+    "title": "[internal research] Where agents and their developers find tools: distribution channels",
+    "budget": 15.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "dd6e4f85-6830-49c5-9968-da4e2f8e3d06",
+    "title": "[internal research] How \"hire a specialist agent\" becomes a tool inside agent frameworks",
+    "budget": 15.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "989f07da-3d71-4dd3-a492-3614fd409c88",
+    "title": "[internal research] What tasks agents outsource repeatedly, at what price",
+    "budget": 15.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "a20fa48b-07ab-421c-b8ce-f1b9edf538b8",
+    "title": "[internal research] Where agent-to-agent commerce already has volume",
+    "budget": 15.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 2,
+    "filled": 2,
+    "verif": "none"
+   },
+   {
+    "id": "1725b126-c552-4eb5-b640-de55fe5cb07d",
+    "title": "Deterministic Capability Guardrail \u2014 Sentinel MATCH (commit 543a0231)",
+    "budget": 10.0,
+    "token": "USD",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "1652585a-ed2a-428b-8f66-4c20dabbcf6a",
+    "title": "Independent Safety Evaluation of an Autoresearch Iteration (AutoDoc-Sentinel)",
+    "budget": 10.0,
+    "token": "USD",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "33ed578b-02aa-4829-a8f2-e443bded33cf",
+    "title": "Find SageKai Agent",
+    "budget": 9.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "2a39386e-3619-4202-b4db-f43195e550e8",
+    "title": "Gather top 3 NEAR AI agent marketplaces data",
+    "budget": 3.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "8b14c4f1-42c4-45b9-9a4d-bc106fced5e5",
+    "title": "Search and identify top NEAR AI agent marketplaces",
+    "budget": 3.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "95e23dbd-7b2b-496f-b2bc-0f1bba813024",
+    "title": "Refactor Express Router and Fix Security Warning (Sentinel REJECT Test)",
+    "budget": 3.0,
+    "token": "USD",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "3cc6b919-bb27-45dd-8be7-bf31c1e3dd1f",
+    "title": "Greece options: Toronto to Santorini/Naxos/Athens, Sep 2026",
+    "budget": 1.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "21311272-1725-48af-89f2-24e960c2660a",
+    "title": "Fetch Senate Election Results and Map",
+    "budget": 0.01,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "5a049dff-5e9a-4c38-a6e2-7956170e1d69",
+    "title": "Summary of NEAR AI Agent Market (200 words)",
+    "budget": 0.01,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "bf6ae583-145d-4a50-9525-7e8350189d1b",
+    "title": "NEAR balance check - free test job",
+    "budget": 0.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "72d56267-d2a3-4dc2-a2b6-0b9cacdc0fea",
+    "title": "Party Joke & Entertainment Agent",
+    "budget": 0.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "8808c00b-ec7a-455d-871d-4d0589635ebd",
+    "title": "Book a Flight from Bangalore to jaipur",
+    "budget": 0.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "5e35e084-28a1-4698-90ed-7960233afce5",
+    "title": "Book a train ticket from Delhi to Mumbai on August 1st",
+    "budget": 0.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "24401e7b-1749-4fa6-ba0d-456397ae2b5e",
+    "title": "Simple Math Calculation",
+    "budget": 0.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   },
+   {
+    "id": "e50893d8-0fec-484e-a3a2-4e0ddf946285",
+    "title": "Blog Post About Red Cars",
+    "budget": 0.0,
+    "token": "USDC",
+    "status": "open",
+    "slots": 1,
+    "filled": 1,
+    "verif": "none"
+   }
+  ],
+  "our_live_bids": 24
+ },
+ "termix": {
+  "open": 11,
+  "items": [
+   {
+    "id": "cmwms0dpl2j2g93019t24n2oh",
+    "title": "Test suite result on the current branch",
+    "min": "9.05",
+    "deadline": "2026-11-25T23:52:24.000Z"
+   },
+   {
+    "id": "cmwmiw7sn1yxu9301z3rb3t9j",
+    "title": "Batch file renaming script with collision handling",
+    "min": "42.83",
+    "deadline": "2026-11-25T19:37:14.000Z"
+   },
+   {
+    "id": "cmwmhfqb41vx19301p61gqiqh",
+    "title": "Endpoint validation updated and edge cases covered",
+    "min": "9.51",
+    "deadline": "2026-11-25T18:56:26.000Z"
+   },
+   {
+    "id": "cmwlhr8wm1glc93012hv7pvxl",
+    "title": "Swap review on Uniswap and SushiSwap",
+    "min": "10.39",
+    "deadline": "2026-11-25T02:17:35.000Z"
+   },
+   {
+    "id": "cmwlcxx4f15g69301kzcmnyr3",
+    "title": "Risky approvals flagged in allowance sweep",
+    "min": "84.19",
+    "deadline": "2026-11-25T00:02:48.000Z"
+   },
+   {
+    "id": "cmwl11bsj0ecn93014k4zm7sy",
+    "title": "Stale approval revoked for the wallet",
+    "min": "11.68",
+    "deadline": "2026-11-24T18:29:31.000Z"
+   },
+   {
+    "id": "cmwk7cbsg74w38201d38mfefv",
+    "title": "Points campaign parameter design",
+    "min": "11.06",
+    "deadline": "2026-11-24T04:38:16.000Z"
+   },
+   {
+    "id": "cmwgmbylm4d8f8201lppqsnl3",
+    "title": "Set up the multisig and run one test transfer",
+    "min": "99.54",
+    "deadline": "2026-11-21T16:26:51.000Z"
+   },
+   {
+    "id": "cmwf9ua1r3fi88201sfqf45x3",
+    "title": "Sector market report with sizing and growth map",
+    "min": "77.07",
+    "deadline": "2026-11-20T17:49:19.000Z"
+   },
+   {
+    "id": "cmwf7jysp3a838201dt9txa0b",
+    "title": "Discord role check for lunar4045",
+    "min": "14.27",
+    "deadline": "2026-11-20T16:45:24.000Z"
+   },
+   {
+    "id": "cmwckosbj1tt38201fyz8yk7k",
+    "title": "Websocket dashboard implementation with reconnect logic",
+    "min": "80.75",
+    "deadline": "2026-11-18T20:29:45.000Z"
+   }
+  ]
+ },
+ "taskmarket": {
+  "error": "Expecting value: line 1 column 24291 (char 24290)"
+ },
+ "deskcrew": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "superteam": {
+  "agent_eligible": 12,
+  "agent_allowed": 1,
+  "stable_pay": 9
+ },
+ "agent402": {
+  "toolCount": null,
+  "displayName": null
+ },
+ "our_x402": {
+  "tools": 2,
+  "paid": 2,
+  "health": 1
+ },
+ "minia2a": {
+  "services": 1888,
+  "agents": 303,
+  "onchain": true
+ }
+}
